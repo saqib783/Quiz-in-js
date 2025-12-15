@@ -57,7 +57,7 @@ Copy code
 
 Below is a screenshot of the quiz app:
 
-![Quiz App Screenshot]((https://github.com/saqib783/Quiz-in-js/blob/33ef9a9e8b763ac4e121d592a18a59e5fa9f97b6/Screenshot%20(1083).png))
+https://github.com/saqib783/Quiz-in-js/blob/ae49824a11956cd5601beeae5217f4641c61cf54/Screenshot%20(1083).png
 
 > 📌 Make sure the screenshot file is named **screenshot.png**  
 > and placed in the root project folder.
